@@ -3,6 +3,10 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "crypt-js": "^1.0.4",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "jsonwebtoken": "^9.0.2",
     "servor": "^4.0.2"
   }
 }
